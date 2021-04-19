@@ -6,10 +6,10 @@ html, body {
     background-color: white !important;
 }
 
-@font-face {
+/*@font-face {
     font-family: Kanit;
     src: url("public\font\Kanit.ttf");
-}
+}*/
 
 .p, p {
     font-family: kanit !important;

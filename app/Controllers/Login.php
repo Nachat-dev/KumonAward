@@ -28,8 +28,6 @@ class Login extends Controller
 	public function auth()
 	{
 
-
-		
 		$session = session();
 		$model = new UserModel();
 		$data = $model->where('user',$this->request->getVar('user'))->first();
