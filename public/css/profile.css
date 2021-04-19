@@ -1,0 +1,104 @@
+html, body {
+    height: -webkit-fill-available;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    background-color: white !important;
+}
+
+@font-face {
+    font-family: Kanit;
+    src: url("public\font\Kanit.ttf");
+}
+
+.p, p {
+    font-family: kanit !important;
+}
+
+.h4, h4 {
+    font-family: kanit !important;
+}
+
+.h4 {
+    font-family: kanit !important;
+}
+
+h4.headerprofile {
+    margin-top: 25px;
+}
+
+.container.profile {
+    background-color: white;
+    border-radius: 16px;
+    width: 70%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.082), 0 6px 20px 0 rgba(0, 0, 0, 0.075);
+}
+
+input#editform {
+    background-color: #f8f8f8;
+    margin-top: 7px;
+    margin-bottom: 10px;
+    border: none;
+}
+
+lebel.titlelebel {
+    margin-left: 5px;
+}
+
+lebel {
+    font-family: kanit !important;
+}
+
+label.checkbox {
+    font-family: kanit;
+    font-size: 12px;
+}
+
+span.englishversion {
+    cursor: pointer;
+    color: lightskyblue;
+}
+
+#outer {
+    width: 100%;
+    text-align: center;
+}
+
+.inner {
+    display: inline-block;
+}
+
+button.inner.btn.btn-outline-primary.my-2.my-sm-0 {
+    border-radius: 25px;
+}
+
+button.inner.btn.btn-outline-success.my-2.my-sm-0 {
+    border-radius: 25px;
+}
+
+.container.profile {
+    margin-top: 50px;
+}
+
+.col-9.form {
+    padding: 0px 40px 0px 20px !important;
+}
+
+.col-3.form {
+    background-color: #87cefa;
+    border-radius: 16px 0px 0px 16px;
+}
+
+.center.img {
+    display: block;
+    margin: 50% auto 20px;
+    width: 85%;
+}
+
+hr {
+    background-color: #2baeff;
+    border-top: solid 2px #2baeff;
+}
+button{
+    font-family: kanit;
+}
