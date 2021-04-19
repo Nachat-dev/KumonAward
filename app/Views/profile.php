@@ -151,8 +151,8 @@
                 <hr />
                 <div class="row" style="float:right; margin-bottom:30px">
                     <div id="outer">
-                        <button class="inner btn btn-outline-primary my-2 my-sm-0" type="" href="/logout">แก้ไขข้อมูล / Edit</button>
-                        <button class="inner btn btn-outline-success my-2 my-sm-0" type="" href="/logout">ส่งข้อมูล/ Submit</button>
+                        <button class="inner btn btn-outline-primary my-2 my-sm-0" type="" href="/editdata">แก้ไขข้อมูล / Edit</button>
+                        <button class="inner btn btn-outline-success my-2 my-sm-0" type="" href="/postdata">ส่งข้อมูล/ Submit</button>
                     </div>
                 </div>
             </div>
