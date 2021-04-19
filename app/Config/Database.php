@@ -32,7 +32,7 @@ class Database extends Config
 	 */
 	public $default = [
 		'DSN'      => '',
-		'hostname' => '45.32.111.5',
+		'hostname' => 'localhost',
 		'username' => 'root',
 		'password' => '',
 		'database' => 'kumon',
@@ -47,7 +47,7 @@ class Database extends Config
 		'compress' => false,
 		'strictOn' => false,
 		'failover' => [],
-		'port'     => 22,
+		'port'     => 3306,
 	];
 
 	/**
